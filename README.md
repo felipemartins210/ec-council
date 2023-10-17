@@ -1,4 +1,4 @@
-# ec-council
+# EC-Council
 ## The Ultimate Cyber Security Awareness Month 2023
 
 1 - Black Hat C++: C++ For Pentesters
